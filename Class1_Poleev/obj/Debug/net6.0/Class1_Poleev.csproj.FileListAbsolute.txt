@@ -1,0 +1,15 @@
+C:\Users\андрей\source\repos\Class1_Poleev\bin\Debug\net6.0\Class1_Poleev.exe
+C:\Users\андрей\source\repos\Class1_Poleev\bin\Debug\net6.0\Class1_Poleev.deps.json
+C:\Users\андрей\source\repos\Class1_Poleev\bin\Debug\net6.0\Class1_Poleev.runtimeconfig.json
+C:\Users\андрей\source\repos\Class1_Poleev\bin\Debug\net6.0\Class1_Poleev.dll
+C:\Users\андрей\source\repos\Class1_Poleev\bin\Debug\net6.0\Class1_Poleev.pdb
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\Class1_Poleev.csproj.AssemblyReference.cache
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\Class1_Poleev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\Class1_Poleev.AssemblyInfoInputs.cache
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\Class1_Poleev.AssemblyInfo.cs
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\Class1_Poleev.csproj.CoreCompileInputs.cache
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\Class1_Poleev.dll
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\refint\Class1_Poleev.dll
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\Class1_Poleev.pdb
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\Class1_Poleev.genruntimeconfig.cache
+C:\Users\андрей\source\repos\Class1_Poleev\obj\Debug\net6.0\ref\Class1_Poleev.dll
